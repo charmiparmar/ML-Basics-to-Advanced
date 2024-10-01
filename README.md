@@ -64,3 +64,10 @@ This repository is ideal for those looking to learn, practice, and explore conce
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/charmiparmar/ML-Basics-to-Advanced.git
+
+---
+
+## License
+This project is licensed under the MIT License.
+
+---
